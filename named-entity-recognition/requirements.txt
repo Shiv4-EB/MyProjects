@@ -1,0 +1,6 @@
+transformers>=4.49.0
+torch>=2.10.0
+PyMuPDF>=1.26.0
+pandas>=2.2.0
+streamlit>=1.32.0
+reportlab>=4.0.9
